@@ -1,4 +1,5 @@
-
+##💻👩‍💻About Me 
+¡Hola! Soy Nathaly, una entusiasta de la programación y los videojuegos. Entre líneas de código y mundos virtuales, encuentro mi inspiración. Siempre en búsqueda de aprendizaje y nuevos desafíos. 🚀🎮
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nathalysantoscol/) 
 
